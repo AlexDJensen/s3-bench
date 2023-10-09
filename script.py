@@ -163,6 +163,7 @@ def main(concurrency: int = 20):
 
 
 if __name__ == "__main__":
+    main(2)
     main(4)
     main(8)
     main(20)
